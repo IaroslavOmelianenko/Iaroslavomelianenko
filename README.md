@@ -4,10 +4,10 @@
 
 **Languages and Tools**
 
-![Java](https://img.shields.io/badge/Java-9A5812?style=for-the-badge&logo=java)
-![Spring Framerwork](https://img.shields.io/badge/Spring_Framerwork-2F4F4F?style=for-the-badge&logo=Spring)
-![SQL](https://img.shields.io/badge/SQL-2F4F4F?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-2F4F4F?style=for-the-badge&logo=git)
+[![Java](https://img.shields.io/badge/Java-9A5812?style=for-the-badge&logo=java)](https://github.com/IaroslavOmelianenko)
+[![Spring Framerwork](https://img.shields.io/badge/Spring_Framerwork-2F4F4F?style=for-the-badge&logo=Spring)](https://github.com/IaroslavOmelianenko)
+[![SQL](https://img.shields.io/badge/SQL-2F4F4F?style=for-the-badge&logo=postgresql)](https://github.com/IaroslavOmelianenko)
+[![Git](https://img.shields.io/badge/Git-2F4F4F?style=for-the-badge&logo=git)](https://github.com/IaroslavOmelianenko)
 
 ---
 
