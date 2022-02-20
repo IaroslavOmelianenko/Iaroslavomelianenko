@@ -13,6 +13,6 @@
 
 **Follow me**
 
-![Telegram](https://img.shields.io/badge/Telegram-2F4F4F?style=for-the-badge&logo=Telegram)
-![Instagram](https://img.shields.io/badge/Instagram-2F4F4F?style=for-the-badge&logo=Instagram)
-![VK](https://img.shields.io/badge/VKontakte-2F4F4F?style=for-the-badge&logo=vk)
+[![Telegram](https://img.shields.io/badge/Telegram-2F4F4F?style=for-the-badge&logo=Telegram)](https://tlgg.ru/@yara_mint)
+[![Instagram](https://img.shields.io/badge/Instagram-2F4F4F?style=for-the-badge&logo=Instagram)](https://www.instagram.com/the_y_the_yara/)
+[![VK](https://img.shields.io/badge/VKontakte-2F4F4F?style=for-the-badge&logo=vk)](https://vk.com/omelyanenko)
