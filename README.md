@@ -1,4 +1,4 @@
-# I'm a beginner Java Developer
+# Java Developer
 
 ---
 
